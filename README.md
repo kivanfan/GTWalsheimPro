@@ -3,6 +3,6 @@
 ```
 https://unpkg.com/browse/gtwalsheim4web@1.0.0/GTWalsheimPro.css
 
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/browse/gtwalsheim4web@1.0.0/GTWalsheimPro.css" />
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/gtwalsheim4web@1.0.2/GTWalsheimPro.css" />
 
 ```
